@@ -1,0 +1,28 @@
+#titulo {
+    color:#F5C45E;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+h2 {
+    color:#E78B48;
+    font-size: 30px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 30px auto;
+    max-width: 900px;
+    padding: 20px;
+
+    background-color:#102E50;
+
+}
+
+p {
+    color:#A6AEBF;
+
+}
+ul {
+    color:#A6AEBF;
+}
